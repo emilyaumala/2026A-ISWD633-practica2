@@ -25,9 +25,16 @@ La figura presenta el esquema creado en donde los puertos son:
 
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
+<img width="2878" height="1427" alt="image" src="https://github.com/user-attachments/assets/d291163c-d43a-4a72-8396-7b15c96e2ba2" />
+
+<img width="2879" height="1430" alt="image" src="https://github.com/user-attachments/assets/e7a5460c-1a49-4709-a24f-6fa6a793e2c0" />
+
 ## Desde el servidor postgresl
 ### Acceder al servidor
 ### Conectarse a la base de datos info
 # COMPLETAR
 ### Realizar un select *from personas
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+
+<img width="1400" height="639" alt="image" src="https://github.com/user-attachments/assets/aff8e445-ac60-4856-8ddf-e3a07d4b1f40" />
+
